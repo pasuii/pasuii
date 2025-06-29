@@ -1,8 +1,7 @@
-<h1 align="center"> <img src="https://cdn3.emoji.gg/emojis/3568-catkiss.gif" height="50"/></h1>
-
-<p align="center"> Backend enjoyer | Frontend survivor | Stats addict 📊 </p>
-
----
+<h2 align="center"> 
+  <img src="https://cdn3.emoji.gg/emojis/3568-catkiss.gif" height="50" style="vertical-align: middle;"/>
+  Backend enjoyer | Frontend survivor | Stats addict 📊
+</h2>
 
 ## 🥺 About
 I write whatever comes into my head. I'm mostly interested in the backend, but I also like working on the frontend. I really love statistics and calculations!
